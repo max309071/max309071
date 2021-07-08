@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @max309071
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C++
+- 📫 you can mail me on max309071@gmail.com
